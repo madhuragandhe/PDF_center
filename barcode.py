@@ -1,6 +1,6 @@
 import fitz
 
-input_file=''
+input_file='pdf_name.pdf'
 output_file=input_file+'_barcode'
 barcode='barcode.png'
 
