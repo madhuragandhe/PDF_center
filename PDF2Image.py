@@ -1,6 +1,6 @@
 import fitz
 
-pdf_name='170950107011_ins.pdf'
+pdf_name='pdf_name.pdf'
 
 pdf=fitz.open(pdf_name)
 
