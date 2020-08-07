@@ -1,6 +1,6 @@
 from PyPDF2 import PdfFileReader,PdfFileWriter
 
-inputf='170950107011_ins.pdf'
+inputf='pdf_name.pdf'
 output=inputf+'_encrypt.pdf'
 
 password=input("Enter password")
