@@ -1,6 +1,6 @@
 from PyPDF2 import PdfFileReader
 
-file="170950107011_ins.pdf"
+file="pdf_name.pdf"
 
 output_reader=PdfFileReader(open(file,"rb"))
 info=output_reader.getDocumentInfo()
