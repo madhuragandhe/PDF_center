@@ -1,6 +1,6 @@
 from PyPDF2 import PdfFileWriter, PdfFileReader
 
-input='company.pdf'
+input='pdf_name.pdf'
 watermark='watermark.pdf'
 output=input+'_watermark.pdf'
 
