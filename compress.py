@@ -1,7 +1,7 @@
 from PyPDF2 import PdfFileWriter,PdfFileReader
 
-pdf1='170950107011_ins.pdf'
-pdf2='pymupdf.pdf'
+pdf1='pdf2_name.pdf'
+pdf2='pdf1_name.pdf'
 
 PDFS=[pdf1,pdf2]
 
