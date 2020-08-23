@@ -8,3 +8,4 @@
   6. Image to PDF [Single or Multiple]
   7. Document to PDF [Any type of document]
   8. Fonts used in PDF
+  9. Move Page
