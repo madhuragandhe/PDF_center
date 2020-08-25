@@ -10,3 +10,4 @@
   8. Fonts used in PDF
   9. Move Page
  10. Insert Page (with/without text)
+ 11. Delete Page
