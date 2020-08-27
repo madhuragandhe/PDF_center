@@ -1,6 +1,6 @@
 import fitz
 
-inputp="abc.pdf"
+inputp="pdf_name.pdf"
 pdf=fitz.open(inputp)
 
 count=len(pdf)
