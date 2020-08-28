@@ -12,3 +12,4 @@
  10. Insert Page (with/without text)
  11. Delete Page
  12. Insert PDF
+ 13. Rotate Page
