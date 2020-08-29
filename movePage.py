@@ -1,10 +1,10 @@
 import fitz
 
-inputp="abc.pdf"
+inputp="pdf_name.pdf"
 pdf=fitz.open(inputp)
 
-# count=len(pdf)
-# print("Total pages:",count)
+count=len(pdf)
+print("Total pages:",count)
 
 pno = int(input("Enter page number(0 - {}): ".format(len(pdf))))
 top=int(input("In front of which page: "))
