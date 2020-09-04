@@ -1,7 +1,7 @@
 import fitz
 
-doc1 = fitz.open("abc.pdf")
-doc2 = fitz.open("170950107011_ins.pdf")
+doc1 = fitz.open("pdf1_name.pdf")
+doc2 = fitz.open("pdf2_name.pdf")
 
 pages1 = len(doc1)
 toc1 = doc1.getToC(False)
